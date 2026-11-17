@@ -1,0 +1,65 @@
+[
+ {
+  "id": "l1",
+  "who": "papa",
+  "text": "Johnny, Johnny?",
+  "start": 8.0,
+  "end": 9.027
+ },
+ {
+  "id": "l2",
+  "who": "johnny",
+  "text": "Yes, Papa!",
+  "start": 9.15,
+  "end": 10.34
+ },
+ {
+  "id": "l3",
+  "who": "papa",
+  "text": "Eating sugar?",
+  "start": 10.35,
+  "end": 11.128
+ },
+ {
+  "id": "l4",
+  "who": "johnny",
+  "text": "No, Papa!",
+  "start": 11.65,
+  "end": 12.826
+ },
+ {
+  "id": "l5",
+  "who": "papa",
+  "text": "Telling lies?",
+  "start": 12.85,
+  "end": 13.784
+ },
+ {
+  "id": "l6",
+  "who": "johnny",
+  "text": "No, Papa!",
+  "start": 14.05,
+  "end": 15.001
+ },
+ {
+  "id": "l7",
+  "who": "papa",
+  "text": "Open your mouth!",
+  "start": 15.05,
+  "end": 15.993
+ },
+ {
+  "id": "l8",
+  "who": "papa",
+  "text": "Ha ha ha ha!",
+  "start": 17.45,
+  "end": 19.248
+ },
+ {
+  "id": "l9",
+  "who": "johnny",
+  "text": "Hee hee hee!",
+  "start": 17.65,
+  "end": 19.49
+ }
+]
